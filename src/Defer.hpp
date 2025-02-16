@@ -1,3 +1,4 @@
+// See https://github.com/U65535F/defer
 #pragma once
 #include <exception>
 #include <functional>
